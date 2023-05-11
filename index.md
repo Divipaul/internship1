@@ -16,4 +16,4 @@ LED  ontrol
 
 ## Arduino Exp 2
 ![III](https://github.com/Divipaul/internship1/blob/main/img/Screenshot%20from%202023-05-11%2011-41-03.png)
-
+[THINKER THIS](https://www.tinkercad.com/things/dSNzYcFv0m5-arduino/editel)
