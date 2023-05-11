@@ -9,3 +9,6 @@ LED  ontrol
 
 ##LED EXP1
 ![iiic](https://github.com/Divipaul/internship1/blob/main/img/day2exp1.png)
+
+## Day 3 Exp 1
+![IIIC](
