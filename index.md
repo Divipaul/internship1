@@ -11,4 +11,4 @@ LED  ontrol
 ![iiic](https://github.com/Divipaul/internship1/blob/main/img/day2exp1.png)
 
 ## Day 3 Exp 1
-![IIIC](
+![III](https://github.com/Divipaul/internship1/blob/main/img/Screenshot%20from%202023-05-11%2010-45-41.png)
