@@ -12,3 +12,4 @@ LED  ontrol
 
 ## Day 3 Exp 1
 ![III](https://github.com/Divipaul/internship1/blob/main/img/Screenshot%20from%202023-05-11%2010-45-41.png)
+[THINKER THIS](https://www.tinkercad.com/things/1LwvThNP5kr-7408/editel)
