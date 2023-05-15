@@ -32,3 +32,7 @@ Blockly inroducing
 
 Exp 2 Blockly
 ![III](https://github.com/Divipaul/internship1/blob/main/img/Blockly.png)
+
+## Day 5 
+### Analog arduino
+![III](https://github.com/Divipaul/internship1/blob/main/img/analog.png)
