@@ -36,3 +36,4 @@ Exp 2 Blockly
 ## Day 5 
 ### Analog arduino
 ![III](https://github.com/Divipaul/internship1/blob/main/img/analog.png)
+[THINKER THIS](https://www.tinkercad.com/things/0K2eagduYwZ-analog-arduino/editel)
