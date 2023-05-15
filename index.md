@@ -37,3 +37,7 @@ Exp 2 Blockly
 ### Analog arduino
 ![III](https://github.com/Divipaul/internship1/blob/main/img/analog.png)
 [THINKER THIS](https://www.tinkercad.com/things/0K2eagduYwZ-analog-arduino/editel)
+
+## 7 segment
+![III](https://github.com/Divipaul/internship1/blob/main/img/7%20segment%20.png)
+[THINKER THIS](https://www.tinkercad.com/things/hiHCs2iLwkm-7-segment/editel)
