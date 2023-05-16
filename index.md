@@ -41,3 +41,8 @@ Exp 2 Blockly
 ## 7 segment
 ![III](https://github.com/Divipaul/internship1/blob/main/img/7%20segment%20.png)
 [THINKER THIS](https://www.tinkercad.com/things/hiHCs2iLwkm-7-segment/editel)
+
+## Day 6 
+### 3D design
+![IIII](https://github.com/Divipaul/internship1/blob/main/img/Screenshot%20from%202023-05-16%2010-19-02.png)
+[THINKER THIS](https://www.tinkercad.com/things/7abdMHKV9qe-3d/edit)
