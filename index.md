@@ -46,3 +46,6 @@ Exp 2 Blockly
 ### 3D design
 ![IIII](https://github.com/Divipaul/internship1/blob/main/img/Screenshot%20from%202023-05-16%2010-19-02.png)
 [THINKER THIS](https://www.tinkercad.com/things/7abdMHKV9qe-3d/edit)
+
+### 3D Car
+![IIII](https://github.com/Divipaul/internship1/blob/main/img/3D%20car.png)
