@@ -50,3 +50,8 @@ Exp 2 Blockly
 ### 3D Car
 ![IIII](https://github.com/Divipaul/internship1/blob/main/img/3D%20car.png)
 [THINKER THIS](https://www.tinkercad.com/things/84ZpRQHxtYk-3d-car/edit)
+
+## Day 7
+### Arduino light 
+![III](https://github.com/Divipaul/internship1/blob/main/img/arduino.png)
+
