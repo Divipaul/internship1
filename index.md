@@ -60,6 +60,10 @@ Exp 2 Blockly
 ![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/traffic.png)
 [THINKER THIS](https://www.tinkercad.com/things/7KXko3bwC19-traffic/editel)
 
+###EXP2 Push Button
+![III](https://github.com/divinpaul1234/internship1/blob/main/img/push%20bitton.png)
+[THINKER THIS](https://www.tinkercad.com/things/6kR0kdYNAfA-push-button/editel)
+
 ## Day 10
 ![III](https://github.com/divinpaul1234/internship1/blob/main/img/light.png)
 [THINKER THIS](https://www.tinkercad.com/things/3zTMfQNvCe5-automatic-street-lights/editel)
