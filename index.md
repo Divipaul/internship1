@@ -55,3 +55,6 @@ Exp 2 Blockly
 ### Arduino light 
 ![III](https://github.com/Divipaul/internship1/blob/main/img/arduino.png)
 
+## Day 10
+![III](https://github.com/divinpaul1234/internship1/blob/main/img/light.png)
+
