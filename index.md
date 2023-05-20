@@ -64,6 +64,10 @@ Exp 2 Blockly
 ![III](https://github.com/divinpaul1234/internship1/blob/main/img/push%20bitton.png)
 [THINKER THIS](https://www.tinkercad.com/things/6kR0kdYNAfA-push-button/editel)
 
+###EXP3 lcd disply
+![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/LCD%20Disply.png)
+[THINKER THIS](https://www.tinkercad.com/things/i9tSsAPVw1U-lcd-disply/editel)
+
 ## Day 10
 ![III](https://github.com/divinpaul1234/internship1/blob/main/img/light.png)
 [THINKER THIS](https://www.tinkercad.com/things/3zTMfQNvCe5-automatic-street-lights/editel)
