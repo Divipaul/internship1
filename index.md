@@ -58,6 +58,7 @@ Exp 2 Blockly
 ## Day 9
 ### Traffic light
 ![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/traffic.png)
+[THINKER THIS](https://www.tinkercad.com/things/7KXko3bwC19-traffic/editel)
 
 ## Day 10
 ![III](https://github.com/divinpaul1234/internship1/blob/main/img/light.png)
