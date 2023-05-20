@@ -55,6 +55,10 @@ Exp 2 Blockly
 ### Arduino light 
 ![III](https://github.com/Divipaul/internship1/blob/main/img/arduino.png)
 
+## Day 8
+### 3D Truck
+![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/Screenshot%20from%202023-05-20%2013-04-17.png)
+
 ## Day 9
 ### Traffic light
 ![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/traffic.png)
