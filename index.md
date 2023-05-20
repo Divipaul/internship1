@@ -55,6 +55,10 @@ Exp 2 Blockly
 ### Arduino light 
 ![III](https://github.com/Divipaul/internship1/blob/main/img/arduino.png)
 
+## Day 9
+### Traffic light
+![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/traffic.png)
+
 ## Day 10
 ![III](https://github.com/divinpaul1234/internship1/blob/main/img/light.png)
 [THINKER THIS](https://www.tinkercad.com/things/3zTMfQNvCe5-automatic-street-lights/editel)
