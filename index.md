@@ -58,6 +58,7 @@ Exp 2 Blockly
 ## Day 8
 ### 3D Truck
 ![IIII](https://github.com/divinpaul1234/internship1/blob/main/img/Screenshot%20from%202023-05-20%2013-04-17.png)
+[THINKER THIS](https://www.tinkercad.com/things/dgNWiG80n8W-3d-truck/edit)
 
 ## Day 9
 ### Traffic light
